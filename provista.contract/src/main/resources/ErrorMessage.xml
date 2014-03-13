@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
+	xmlns="urn:enterprise.soap.sforce.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<soapenv:Body>
+		<upsertResponse>
+			<result>
+				<created>false</created>
+				<errors>
+					<message>Foreign key external ID: Budget not found for field Name
+						in entity Product2</message>
+					<statusCode>INVALID_FIELD</statusCode>
+				</errors>
+				<id xsi:nil="true" />
+				<success>false</success>
+			</result>
+		</upsertResponse>
+	</soapenv:Body>
+</soapenv:Envelope>

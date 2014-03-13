@@ -1,0 +1,25 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1394731415080
+Build-Jdk: 1.7.0_25
+Built-By: gliu
+Bundle-ManifestVersion: 2
+Bundle-Name: Provista Contracts Subscriber
+Bundle-SymbolicName: provista.contract
+Bundle-Version: 0.0.1.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Export-Package: com.vha.esb.provista;uses:="com.vha.esb.provista.model,o
+ rg.dom4j,org.slf4j,org.apache.camel,com.vha.esb.provista.util,org.dom4j
+ .io,javax.xml.soap,javax.xml.namespace";version="0.0.1.SNAPSHOT",com.vh
+ a.esb.provista.model;uses:="org.slf4j";version="0.0.1.SNAPSHOT",com.vha
+ .esb.provista.util;uses:="com.vha.esb.provista.model,javax.mail.interne
+ t,javax.mail,org.slf4j,org.dom4j.tree,org.dom4j";version="0.0.1.SNAPSHO
+ T"
+Import-Package: javax.mail;version="[1.4,2)",javax.mail.internet;version
+ ="[1.4,2)",javax.xml.namespace,javax.xml.soap,org.apache.activemq;versi
+ on="[5.7,6)",org.apache.activemq.camel.component,org.apache.activemq.po
+ ol,org.apache.camel;version="[2.10,3)",org.apache.camel.component.jms;v
+ ersion="[2.10,3)",org.apache.camel.spring.spi;version="[2.10,3)",org.do
+ m4j,org.dom4j.io,org.dom4j.tree,org.osgi.service.blueprint;version="[1.
+ 0.0,2.0.0)",org.slf4j;version="[1.6,2)",org.springframework.jms.connect
+ ion;version="[3.0,4)"
+Tool: Bnd-1.50.0

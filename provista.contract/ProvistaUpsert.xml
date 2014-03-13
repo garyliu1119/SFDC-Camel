@@ -1,0 +1,34 @@
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"
+	xmlns:urn="urn:enterprise.soap.sforce.com" xmlns:urn1="urn:sobject.enterprise.soap.sforce.com"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<SOAP-ENV:Header>
+		<urn:SessionHeader>
+			<urn:sessionId>00DJ0000002lyZo!AQoAQAxGo53FgaoqDL7jqUHn3YnlNzf4Cmyk8KSqdkfcL4yYxKVFzqI8CaNktZBBeL67ydAMGzLkCgTirwrY9RU9pxUQ8lzU
+			</urn:sessionId>
+		</urn:SessionHeader>
+	</SOAP-ENV:Header>
+	<SOAP-ENV:Body>
+		<urn:upsert>
+			<urn:externalIDFieldName>Contract_Number__c</urn:externalIDFieldName>
+			<urn:sObjects xsi:type="urn1:Contract">
+				<urn:Contract_Number__c>BP0011</urn:Contract_Number__c>
+				<urn:Contract_Name__c>OfficeMax Office Products
+				</urn:Contract_Name__c>
+				<urn:Product_Spend_Category__c>Acute Care Beds
+				</urn:Product_Spend_Category__c>
+				<urn:StartDate>2012-12-15</urn:StartDate>
+				<urn:EndDate>2014-12-15</urn:EndDate>
+				<urn:Form_Required__c>N</urn:Form_Required__c>
+				<urn:Distribution_Method__c>Direct</urn:Distribution_Method__c>
+				<urn:Revenue_Fee_Percent__c>0</urn:Revenue_Fee_Percent__c>
+				<urn:Revenue_Fee_Detail__c>5.3%</urn:Revenue_Fee_Detail__c>
+				<urn:Product_Category__r>
+					<urn:Name>Medical Products</urn:Name>
+				</urn:Product_Category__r>
+				<urn:Account>
+					<urn:Vendor_ID__c>DM90030</urn:Vendor_ID__c>
+				</urn:Account>
+			</urn:sObjects>
+		</urn:upsert>
+	</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

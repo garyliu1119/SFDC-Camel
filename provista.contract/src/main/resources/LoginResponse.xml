@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
+	xmlns="urn:enterprise.soap.sforce.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<soapenv:Body>
+		<loginResponse>
+			<result>
+				<metadataServerUrl>https://cs10.salesforce.com/services/Soap/m/26.0/00DJ0000002lyZo
+				</metadataServerUrl>
+				<passwordExpired>false</passwordExpired>
+				<sandbox>true</sandbox>
+				<serverUrl>https://cs10.salesforce.com/services/Soap/c/26.0/00DJ0000002lyZo/0DFU000000019ks
+				</serverUrl>
+				<sessionId>00DJ0000002lyZo!AQoAQAdtYJ.yPr8hxd75VlghZarveEleDqFW3nV6_CZ5BapaWPRM6cr8dYzjbmTbIv6GCbyR2Tg43wt0rxUfkfxH8H_LIqaB
+				</sessionId>
+				<userId>005U0000001hrctIAA</userId>
+				<userInfo>
+					<accessibilityMode>false</accessibilityMode>
+					<currencySymbol>$</currencySymbol>
+					<orgAttachmentFileSizeLimit>5242880</orgAttachmentFileSizeLimit>
+					<orgDefaultCurrencyIsoCode>USD</orgDefaultCurrencyIsoCode>
+					<orgDisallowHtmlAttachments>false</orgDisallowHtmlAttachments>
+					<orgHasPersonAccounts>false</orgHasPersonAccounts>
+					<organizationId>00DJ0000002lyZoMAI</organizationId>
+					<organizationMultiCurrency>false</organizationMultiCurrency>
+					<organizationName>Provista</organizationName>
+					<profileId>00eU0000000sFoPIAU</profileId>
+					<roleId>00EU0000000lVU6MAM</roleId>
+					<sessionSecondsValid>7200</sessionSecondsValid>
+					<userDefaultCurrencyIsoCode xsi:nil="true" />
+					<userEmail>jmacdona@provistaco.com.full</userEmail>
+					<userFullName>ESB Integration</userFullName>
+					<userId>005U0000001hrctIAA</userId>
+					<userLanguage>en_US</userLanguage>
+					<userLocale>en_US</userLocale>
+					<userName>integration-esb@provistaco.com.full</userName>
+					<userTimeZone>America/Chicago</userTimeZone>
+					<userType>Standard</userType>
+					<userUiSkin>Theme3</userUiSkin>
+				</userInfo>
+			</result>
+		</loginResponse>
+	</soapenv:Body>
+</soapenv:Envelope>
+

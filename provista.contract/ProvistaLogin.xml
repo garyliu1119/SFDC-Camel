@@ -1,0 +1,15 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:urn="urn:enterprise.soap.sforce.com">
+   <soapenv:Header>
+      <urn:LoginScopeHeader>
+         <urn:organizationId/>
+         <!--Optional:-->
+         
+      </urn:LoginScopeHeader>
+   </soapenv:Header>
+   <soapenv:Body>
+      <urn:login>
+         <urn:username>integration-esb@provistaco.com.full</urn:username>
+         <urn:password>ProvistaESB13</urn:password>
+      </urn:login>
+   </soapenv:Body>
+</soapenv:Envelope>

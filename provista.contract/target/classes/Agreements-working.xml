@@ -1,0 +1,803 @@
+<tns:Agreement xmlns:tns="http://schemas.vha.com/domain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.vha.com/domain ED_Agreement.xsd">
+  <tns:id>4289</tns:id>
+  <tns:name>Cardinal Health Medical Distribution-Chidi Test</tns:name>
+  <tns:number>DM60034</tns:number>
+  <tns:modifier>2006</tns:modifier>
+  <tns:status>Expired</tns:status>
+  <tns:effectiveStartDate>2006-09-01</tns:effectiveStartDate>
+  <tns:effectiveEndDate>2012-08-31</tns:effectiveEndDate>
+  <tns:executionDate>2006-06-01</tns:executionDate>
+  <tns:modifiedDate>2014-02-10T13:19:06.000</tns:modifiedDate>
+  <tns:content />
+  <tns:term xsi:type="tns:StringTerm">
+    <tns:name>subStatus</tns:name>
+    <tns:label>Sub Status</tns:label>
+    <tns:value>true</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:StringTerm">
+    <tns:name>agreement_type</tns:name>
+    <tns:label>Agreement Type</tns:label>
+    <tns:value>Distributor</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:StringTerm">
+    <tns:name>award_status</tns:name>
+    <tns:label>Award Status</tns:label>
+    <tns:value>Bid</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:StringTerm">
+    <tns:name>business_entity</tns:name>
+    <tns:label>Business Entity</tns:label>
+    <tns:value>Corporation</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:StringTerm">
+    <tns:name>capital_equipment_flag</tns:name>
+    <tns:label>Capital Equipment Flag</tns:label>
+    <tns:value>N</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:StringTerm">
+    <tns:name>clinical_prefer_product</tns:name>
+    <tns:label>Clinical Preference Products on Contract?</tns:label>
+    <tns:value>No</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:StringTerm">
+    <tns:name>commitment_required</tns:name>
+    <tns:label>Commitment Required</tns:label>
+    <tns:value>Y</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:StringTerm">
+    <tns:name>compliance_action</tns:name>
+    <tns:label>Compliance Action Taken</tns:label>
+    <tns:value>Approved</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:StringTerm">
+    <tns:name>compliance_notes</tns:name>
+    <tns:label>Compliance Notes</tns:label>
+    <tns:value>Contract uploaded Compliance Review should be attached</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:DateTerm">
+    <tns:name>compliance_date</tns:name>
+    <tns:label>Compliance Review Date</tns:label>
+    <tns:value>2006-09-01T01:00:00.000</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:StringTerm">
+    <tns:name>compliance_by</tns:name>
+    <tns:label>Compliance Review by</tns:label>
+    <tns:value>System</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:StringTerm">
+    <tns:name>confidential_indicator</tns:name>
+    <tns:label>Confidential Indicator</tns:label>
+    <tns:value>Y</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:StringTerm">
+    <tns:name>contract_termination_penalty</tns:name>
+    <tns:label>Contract Contains Termination Penalty?</tns:label>
+    <tns:value>No</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:StringTerm">
+    <tns:name>contract_coverage</tns:name>
+    <tns:label>Contract Coverage</tns:label>
+    <tns:value>Med Surg Distribution</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:StringTerm">
+    <tns:name>contract_coverage</tns:name>
+    <tns:label>Contract Coverage</tns:label>
+    <tns:value />
+  </tns:term>
+  <tns:term xsi:type="tns:DateTerm">
+    <tns:name>contract_creation_date</tns:name>
+    <tns:label>Contract Creation Date</tns:label>
+    <tns:value>2011-04-17T14:55:54.000</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:DateTerm">
+    <tns:name>contract_modified_date</tns:name>
+    <tns:label>Contract Modified Date</tns:label>
+    <tns:value>2014-02-10T14:19:06.000</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:StringTerm">
+    <tns:name>contract_name</tns:name>
+    <tns:label>Contract Name</tns:label>
+    <tns:value>Cardinal Health Medical Distribution-Chidi Test</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:StringTerm">
+    <tns:name>contract_number</tns:name>
+    <tns:label>Contract Number</tns:label>
+    <tns:value>4289</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:StringTerm">
+    <tns:name>contract_rec_freq</tns:name>
+    <tns:label>Contract Reconciliation Frequency</tns:label>
+    <tns:value>NONE</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:StringTerm">
+    <tns:name>contract_title</tns:name>
+    <tns:label>Contract Title</tns:label>
+    <tns:value>Cardinal Health Medical Distribution DM60034</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:StringTerm">
+    <tns:name>contract_version</tns:name>
+    <tns:label>Contract Version</tns:label>
+    <tns:value>1</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:StringTerm">
+    <tns:name>contract_class</tns:name>
+    <tns:label>Contract_Class</tns:label>
+    <tns:value>Distribution Agreement</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:DecimalTerm">
+    <tns:name>contract_total</tns:name>
+    <tns:label>Contract_Total</tns:label>
+    <tns:value>0</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:StringTerm">
+    <tns:name>custom_contract</tns:name>
+    <tns:label>Custom Contract</tns:label>
+    <tns:value>No</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:DecimalTerm">
+    <tns:name>day_of_report</tns:name>
+    <tns:label>Day of Report</tns:label>
+    <tns:value>15</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:StringTerm">
+    <tns:name>desc_fees_paid_novation</tns:name>
+    <tns:label>Detailed Description of Fees Paid to Novation</tns:label>
+    <tns:value>growth&lt;2%, .33% fee; growth 2%-3.99%, .35% fee; growth 4%-7.99%, .38% fee; growth 8%-11.99%, .4% fee; growth 12%-13.99%, .42% fee; growth&gt;14%, .44%fee</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:StringTerm">
+    <tns:name>distribution_method</tns:name>
+    <tns:label>Distribution Method Key</tns:label>
+    <tns:value>Direct</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:DateTerm">
+    <tns:name>exec_external_primary_signature_date</tns:name>
+    <tns:label>EXEC-External Primary Signature Date</tns:label>
+    <tns:value>2011-04-17T14:55:58.000</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:DateTerm">
+    <tns:name>exec_internal_primary_signature_date</tns:name>
+    <tns:label>EXEC-Internal Primary Signature Date</tns:label>
+    <tns:value>2011-04-17T14:55:58.000</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:DateTerm">
+    <tns:name>effective_end_date</tns:name>
+    <tns:label>Effective_End_Date</tns:label>
+    <tns:value>2012-08-31T01:00:00.000</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:DateTerm">
+    <tns:name>effective_start_date</tns:name>
+    <tns:label>Effective_Start_Date</tns:label>
+    <tns:value>2006-09-01T01:00:00.000</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:DateTerm">
+    <tns:name>executiondate</tns:name>
+    <tns:label>ExecutionDate</tns:label>
+    <tns:value>2006-06-01T01:00:00.000</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:StringTerm">
+    <tns:name>export_type</tns:name>
+    <tns:label>Export Type</tns:label>
+    <tns:value>M</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:StringTerm">
+    <tns:name>export_to_ocs</tns:name>
+    <tns:label>Export this Contract to OCS?</tns:label>
+    <tns:value>Yes</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:DateTerm">
+    <tns:name>extension_date</tns:name>
+    <tns:label>Extension Date</tns:label>
+    <tns:value>2011-05-31T00:00:00.000</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:StringTerm">
+    <tns:name>external_primary_party_name</tns:name>
+    <tns:label>External Primary Party Name</tns:label>
+    <tns:value>Cardinal Health 200 Inc</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:StringTerm">
+    <tns:name>failure_to_supply</tns:name>
+    <tns:label>Failure to Supply</tns:label>
+    <tns:value>Y</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:StringTerm">
+    <tns:name>fees_greater_3_percent</tns:name>
+    <tns:label>Fees Greater than 3 Percent?</tns:label>
+    <tns:value>No</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:StringTerm">
+    <tns:name>formulary</tns:name>
+    <tns:label>Formulary</tns:label>
+    <tns:value>Non-Pharmacy</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:StringTerm">
+    <tns:name>innovative_technology</tns:name>
+    <tns:label>Innovative Technology</tns:label>
+    <tns:value>NO</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:StringTerm">
+    <tns:name>internal_party_name</tns:name>
+    <tns:label>Internal Primary Party Name</tns:label>
+    <tns:value>Alliance</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:DecimalTerm">
+    <tns:name>max_revenue_rate</tns:name>
+    <tns:label>Maximum Revenue Rate by Company</tns:label>
+    <tns:value>0.0044</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:DecimalTerm">
+    <tns:name>min_revenue_rate</tns:name>
+    <tns:label>Minimum Revenue Rate by Company</tns:label>
+    <tns:value>0.0033</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:StringTerm">
+    <tns:name>new_product_award</tns:name>
+    <tns:label>New Product Award</tns:label>
+    <tns:value>YES</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:StringTerm">
+    <tns:name>notification_exclusion</tns:name>
+    <tns:label>Notification Exclusion</tns:label>
+    <tns:value>NO</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:StringTerm">
+    <tns:name>opportunity_flag</tns:name>
+    <tns:label>Opportunity Flag</tns:label>
+    <tns:value>N</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:StringTerm">
+    <tns:name>original_owner</tns:name>
+    <tns:label>Original Contract Owner</tns:label>
+    <tns:value>J. Giager</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:DecimalTerm">
+    <tns:name>payment_due_date</tns:name>
+    <tns:label>Payment Due Date</tns:label>
+    <tns:value>15</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:StringTerm">
+    <tns:name>payment_rec_freq</tns:name>
+    <tns:label>Payment Reconciliation Frequency</tns:label>
+    <tns:value>month</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:StringTerm">
+    <tns:name>president</tns:name>
+    <tns:label>President</tns:label>
+    <tns:value>Jody Hatcher</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:StringTerm">
+    <tns:name>price_notification</tns:name>
+    <tns:label>Price Notification</tns:label>
+    <tns:value>45 DAYS TO DISTRIBUTOR</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:StringTerm">
+    <tns:name>price_protection</tns:name>
+    <tns:label>Price Protection</tns:label>
+    <tns:value>FIRM, DISTRIBUTION VOLUME MATRIX;</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:StringTerm">
+    <tns:name>private_label_contract</tns:name>
+    <tns:label>Private Label Contract?</tns:label>
+    <tns:value>No</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:StringTerm">
+    <tns:name>product_sub_category</tns:name>
+    <tns:label>Product Sub-Category</tns:label>
+    <tns:value>Distribution - Medical/Surgical</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:StringTerm">
+    <tns:name>push_to_price_system</tns:name>
+    <tns:label>Published In Price System</tns:label>
+    <tns:value>Y</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:StringTerm">
+    <tns:name>real_contract</tns:name>
+    <tns:label>Real Contact</tns:label>
+    <tns:value>Yes</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:StringTerm">
+    <tns:name>region</tns:name>
+    <tns:label>Region</tns:label>
+    <tns:value>0</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:StringTerm">
+    <tns:name>region_local</tns:name>
+    <tns:label>Region Local</tns:label>
+    <tns:value>0</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:StringTerm">
+    <tns:name>renewal_rights</tns:name>
+    <tns:label>Renewal Rights</tns:label>
+    <tns:value>Two- One Year Options;</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:StringTerm">
+    <tns:name>report_frequency</tns:name>
+    <tns:label>Report Frequency</tns:label>
+    <tns:value>month</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:StringTerm">
+    <tns:name>retroactive_flag</tns:name>
+    <tns:label>Retroactive Flag</tns:label>
+    <tns:value>N</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:StringTerm">
+    <tns:name>return_policy</tns:name>
+    <tns:label>Return Policy</tns:label>
+    <tns:value>Y</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:DateTerm">
+    <tns:name>revenue_eff_date</tns:name>
+    <tns:label>Revenue Effective Date</tns:label>
+    <tns:value>2006-09-01T01:00:00.000</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:DateTerm">
+    <tns:name>revenue_end_date</tns:name>
+    <tns:label>Revenue End Date</tns:label>
+    <tns:value>2012-08-31T00:00:00.000</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:StringTerm">
+    <tns:name>revenue_fee_detail</tns:name>
+    <tns:label>Revenue Fee Detail</tns:label>
+    <tns:value>growth&lt;2%, .33% fee; growth 2%-3.99%, .35% fee; growth 4%-7.99%, .38% fee; growth 8%-11.99%, .4% fee; growth 12%-13.99%, .42% fee; growth&gt;14%, .44%fee</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:DecimalTerm">
+    <tns:name>revenue_pct</tns:name>
+    <tns:label>Revenue Percent</tns:label>
+    <tns:value>0</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:StringTerm">
+    <tns:name>revenue_type</tns:name>
+    <tns:label>Revenue Type</tns:label>
+    <tns:value>HV</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:StringTerm">
+    <tns:name>sole_source</tns:name>
+    <tns:label>Sole Source</tns:label>
+    <tns:value>M</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:StringTerm">
+    <tns:name>specialty_contract</tns:name>
+    <tns:label>Specialty Contract</tns:label>
+    <tns:value>AGGREGATION</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:StringTerm">
+    <tns:name>state_of_incorp</tns:name>
+    <tns:label>State of Incorporation</tns:label>
+    <tns:value>Ohio</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:StringTerm">
+    <tns:name>supplier_delivery_terms</tns:name>
+    <tns:label>Supplier Delivery Terms</tns:label>
+    <tns:value>FOB Destination</tns:value>
+  </tns:term>
+  <tns:term xsi:type="tns:StringTerm">
+    <tns:name>type_of_vendor</tns:name>
+    <tns:label>Type of Vendor</tns:label>
+    <tns:value>Supplier</tns:value>
+  </tns:term>
+  <tns:partyRole>
+    <tns:roleName>Supplier</tns:roleName>
+    <tns:Party xsi:type="tns:Organization">
+      <tns:id>DM90030</tns:id>
+      <tns:name>Cardinal Health 200 Inc</tns:name>
+    </tns:Party>
+  </tns:partyRole>
+  <tns:partyRole>
+    <tns:roleName>Supplier Contact</tns:roleName>
+    <tns:Party xsi:type="tns:Individual">
+      <tns:id>5663b4e38ffd433ab2d92f1a326146f4</tns:id>
+      <tns:firstName>Holly Pratt</tns:firstName>
+    </tns:Party>
+  </tns:partyRole>
+  <tns:partyRole>
+    <tns:roleName>Portfolio Executive</tns:roleName>
+    <tns:Party xsi:type="tns:Individual">
+      <tns:id>d96ad0934d844ac2b6a33cd07d74d2c6</tns:id>
+      <tns:firstName>Darrick Adams</tns:firstName>
+    </tns:Party>
+  </tns:partyRole>
+  <tns:partyRole>
+    <tns:roleName>Supply Manager</tns:roleName>
+    <tns:Party xsi:type="tns:Organization">
+      <tns:id>018</tns:id>
+      <tns:name>Novation</tns:name>
+    </tns:Party>
+  </tns:partyRole>
+  <tns:partyRole>
+    <tns:roleName>Business Unit Analyst</tns:roleName>
+    <tns:Party xsi:type="tns:Individual">
+      <tns:firstName>Laura Carvajal</tns:firstName>
+    </tns:Party>
+  </tns:partyRole>
+  <tns:partyRole>
+    <tns:roleName>Business Unit Director</tns:roleName>
+    <tns:Party xsi:type="tns:Individual">
+      <tns:firstName>Heather Paton</tns:firstName>
+    </tns:Party>
+  </tns:partyRole>
+  <tns:partyRole>
+    <tns:roleName>Business Unit Senior Director</tns:roleName>
+    <tns:Party xsi:type="tns:Individual">
+      <tns:firstName>Heather Paton</tns:firstName>
+    </tns:Party>
+  </tns:partyRole>
+  <tns:partyRole>
+    <tns:roleName>Business Unit Senior Vice President</tns:roleName>
+    <tns:Party xsi:type="tns:Individual">
+      <tns:firstName>Peter Allen</tns:firstName>
+    </tns:Party>
+  </tns:partyRole>
+  <tns:partyRole>
+    <tns:roleName>Business Unit Vice President</tns:roleName>
+    <tns:Party xsi:type="tns:Individual">
+      <tns:firstName>Cathy Denning</tns:firstName>
+    </tns:Party>
+  </tns:partyRole>
+  <tns:partyRole>
+    <tns:roleName>Buying Company</tns:roleName>
+    <tns:Party xsi:type="tns:Organization">
+      <tns:id>099</tns:id>
+      <tns:name>CHA</tns:name>
+    </tns:Party>
+  </tns:partyRole>
+  <tns:partyRole>
+    <tns:roleName>Buying Company</tns:roleName>
+    <tns:Party xsi:type="tns:Organization">
+      <tns:id>019</tns:id>
+      <tns:name>Provista</tns:name>
+    </tns:Party>
+  </tns:partyRole>
+  <tns:partyRole>
+    <tns:roleName>Buying Company</tns:roleName>
+    <tns:Party xsi:type="tns:Organization">
+      <tns:id>020</tns:id>
+      <tns:name>UHC</tns:name>
+    </tns:Party>
+  </tns:partyRole>
+  <tns:partyRole>
+    <tns:roleName>Buying Company</tns:roleName>
+    <tns:Party xsi:type="tns:Organization">
+      <tns:id>001</tns:id>
+      <tns:name>VHA</tns:name>
+    </tns:Party>
+  </tns:partyRole>
+  <tns:partyRole>
+    <tns:roleName>National Account Manager</tns:roleName>
+    <tns:Party xsi:type="tns:Individual">
+      <tns:address />
+    </tns:Party>
+  </tns:partyRole>
+  <tns:productClass>
+    <tns:name>Medical Products</tns:name>
+    <tns:type>product_segment_key</tns:type>
+  </tns:productClass>
+  <tns:productClass>
+    <tns:name>1Q</tns:name>
+    <tns:type>class_of_trade</tns:type>
+  </tns:productClass>
+  <tns:productClass>
+    <tns:name>1S</tns:name>
+    <tns:type>class_of_trade</tns:type>
+  </tns:productClass>
+  <tns:productClass>
+    <tns:name>1U</tns:name>
+    <tns:type>class_of_trade</tns:type>
+  </tns:productClass>
+  <tns:productClass>
+    <tns:name>1Y</tns:name>
+    <tns:type>class_of_trade</tns:type>
+  </tns:productClass>
+  <tns:productClass>
+    <tns:name>4Y</tns:name>
+    <tns:type>class_of_trade</tns:type>
+  </tns:productClass>
+  <tns:productClass>
+    <tns:name>DF</tns:name>
+    <tns:type>class_of_trade</tns:type>
+  </tns:productClass>
+  <tns:productClass>
+    <tns:name>IN</tns:name>
+    <tns:type>class_of_trade</tns:type>
+  </tns:productClass>
+  <tns:productClass>
+    <tns:name>DISTRIBUTION - MEDICAL/SURGICAL</tns:name>
+    <tns:type>marketplace_segment</tns:type>
+  </tns:productClass>
+  <tns:productClass>
+    <tns:name>MEDICAL</tns:name>
+    <tns:type>marketplace_segment</tns:type>
+  </tns:productClass>
+  <tns:productClass>
+    <tns:name>SURGICAL</tns:name>
+    <tns:type>marketplace_segment</tns:type>
+  </tns:productClass>
+  <tns:productClass>
+    <tns:name>MS</tns:name>
+    <tns:type>service_line</tns:type>
+  </tns:productClass>
+  <tns:relatedAgreement>
+    <tns:roleName>Dual Multi Award</tns:roleName>
+    <tns:agreement>
+      <tns:id>12777</tns:id>
+      <tns:name>N S Low Medical Distribution</tns:name>
+      <tns:number>DM60044</tns:number>
+      <tns:modifier>2006</tns:modifier>
+      <tns:status>Terminated</tns:status>
+      <tns:modifiedDate>2001-01-01T01:01:01Z</tns:modifiedDate>
+    </tns:agreement>
+  </tns:relatedAgreement>
+  <tns:relatedAgreement>
+    <tns:roleName>Dual Multi Award</tns:roleName>
+    <tns:agreement>
+      <tns:id>4293</tns:id>
+      <tns:name>Professional Hospital Supply Distribution</tns:name>
+      <tns:number>DM60046</tns:number>
+      <tns:modifier>2006</tns:modifier>
+      <tns:status>Expired</tns:status>
+      <tns:modifiedDate>2001-01-01T01:01:01Z</tns:modifiedDate>
+    </tns:agreement>
+  </tns:relatedAgreement>
+  <tns:relatedAgreement>
+    <tns:roleName>Dual Multi Award</tns:roleName>
+    <tns:agreement>
+      <tns:id>12774</tns:id>
+      <tns:name>Midland Hospital Supply Medical Distribu</tns:name>
+      <tns:number>DM60041</tns:number>
+      <tns:modifier>2006</tns:modifier>
+      <tns:status>Terminated</tns:status>
+      <tns:modifiedDate>2001-01-01T01:01:01Z</tns:modifiedDate>
+    </tns:agreement>
+  </tns:relatedAgreement>
+  <tns:relatedAgreement>
+    <tns:roleName>Dual Multi Award</tns:roleName>
+    <tns:agreement>
+      <tns:id>4298</tns:id>
+      <tns:name>Midwest Medical Distribution</tns:name>
+      <tns:number>DM60043</tns:number>
+      <tns:modifier>2006</tns:modifier>
+      <tns:status>Expired</tns:status>
+      <tns:modifiedDate>2001-01-01T01:01:01Z</tns:modifiedDate>
+    </tns:agreement>
+  </tns:relatedAgreement>
+  <tns:relatedAgreement>
+    <tns:roleName>Dual Multi Award</tns:roleName>
+    <tns:agreement>
+      <tns:id>4294</tns:id>
+      <tns:name>American Medical Depot Med Surg Distribution</tns:name>
+      <tns:number>DM60031</tns:number>
+      <tns:modifier>2006</tns:modifier>
+      <tns:status>Expired</tns:status>
+      <tns:modifiedDate>2001-01-01T01:01:01Z</tns:modifiedDate>
+    </tns:agreement>
+  </tns:relatedAgreement>
+  <tns:relatedAgreement>
+    <tns:roleName>Dual Multi Award</tns:roleName>
+    <tns:agreement>
+      <tns:id>4288</tns:id>
+      <tns:name>Claflin Medical Distribution</tns:name>
+      <tns:number>DM60035</tns:number>
+      <tns:modifier>2006</tns:modifier>
+      <tns:status>Expired</tns:status>
+      <tns:modifiedDate>2001-01-01T01:01:01Z</tns:modifiedDate>
+    </tns:agreement>
+  </tns:relatedAgreement>
+  <tns:relatedAgreement>
+    <tns:roleName>Dual Multi Award</tns:roleName>
+    <tns:agreement>
+      <tns:id>12776</tns:id>
+      <tns:name>Midland Medical Distribution</tns:name>
+      <tns:number>DM60042</tns:number>
+      <tns:modifier>2006</tns:modifier>
+      <tns:status>Terminated</tns:status>
+      <tns:modifiedDate>2001-01-01T01:01:01Z</tns:modifiedDate>
+    </tns:agreement>
+  </tns:relatedAgreement>
+  <tns:relatedAgreement>
+    <tns:roleName>Dual Multi Award</tns:roleName>
+    <tns:agreement>
+      <tns:id>8077</tns:id>
+      <tns:name>Medline Med Surg Distribution-Test1</tns:name>
+      <tns:number>DM60039</tns:number>
+      <tns:modifier>2006</tns:modifier>
+      <tns:status>Expired</tns:status>
+      <tns:modifiedDate>2001-01-01T01:01:01Z</tns:modifiedDate>
+    </tns:agreement>
+  </tns:relatedAgreement>
+  <tns:relatedAgreement>
+    <tns:roleName>Dual Multi Award</tns:roleName>
+    <tns:agreement>
+      <tns:id>4290</tns:id>
+      <tns:name>Buffalo Hospital Supply MS Distribution</tns:name>
+      <tns:number>DM60032</tns:number>
+      <tns:modifier>2006</tns:modifier>
+      <tns:status>Expired</tns:status>
+      <tns:modifiedDate>2001-01-01T01:01:01Z</tns:modifiedDate>
+    </tns:agreement>
+  </tns:relatedAgreement>
+  <tns:relatedAgreement>
+    <tns:roleName>Dual Multi Award</tns:roleName>
+    <tns:agreement>
+      <tns:id>12773</tns:id>
+      <tns:name>Hardin's Sysco Food Services, Inc.</tns:name>
+      <tns:number>DM60036</tns:number>
+      <tns:modifier>2006</tns:modifier>
+      <tns:status>Terminated</tns:status>
+      <tns:modifiedDate>2001-01-01T01:01:01Z</tns:modifiedDate>
+    </tns:agreement>
+  </tns:relatedAgreement>
+  <tns:relatedAgreement>
+    <tns:roleName>Dual Multi Award</tns:roleName>
+    <tns:agreement>
+      <tns:id>4300</tns:id>
+      <tns:name>Owens &amp; Minor Med-Surg Distribut</tns:name>
+      <tns:number>DM60045</tns:number>
+      <tns:modifier>2006</tns:modifier>
+      <tns:status>Expired</tns:status>
+      <tns:modifiedDate>2001-01-01T01:01:01Z</tns:modifiedDate>
+    </tns:agreement>
+  </tns:relatedAgreement>
+  <tns:relatedAgreement>
+    <tns:roleName>Dual Multi Award</tns:roleName>
+    <tns:agreement>
+      <tns:id>4302</tns:id>
+      <tns:name>Burrows Co Distribution</tns:name>
+      <tns:number>DM60049</tns:number>
+      <tns:modifier>2006</tns:modifier>
+      <tns:status>Expired</tns:status>
+      <tns:modifiedDate>2001-01-01T01:01:01Z</tns:modifiedDate>
+    </tns:agreement>
+  </tns:relatedAgreement>
+  <tns:relatedAgreement>
+    <tns:roleName>Dual Multi Award</tns:roleName>
+    <tns:agreement>
+      <tns:id>4291</tns:id>
+      <tns:name>Owens &amp; Minor (McKesson)</tns:name>
+      <tns:number>DM60038</tns:number>
+      <tns:modifier>2006</tns:modifier>
+      <tns:status>Expired</tns:status>
+      <tns:modifiedDate>2001-01-01T01:01:01Z</tns:modifiedDate>
+    </tns:agreement>
+  </tns:relatedAgreement>
+  <tns:relatedAgreement>
+    <tns:roleName>Dual Multi Award</tns:roleName>
+    <tns:agreement>
+      <tns:id>4301</tns:id>
+      <tns:name>Seneca Medical Distribution</tns:name>
+      <tns:number>DM60047</tns:number>
+      <tns:modifier>2006</tns:modifier>
+      <tns:status>Expired</tns:status>
+      <tns:modifiedDate>2001-01-01T01:01:01Z</tns:modifiedDate>
+    </tns:agreement>
+  </tns:relatedAgreement>
+  <tns:relatedAgreement>
+    <tns:roleName>Dual Multi Award</tns:roleName>
+    <tns:agreement>
+      <tns:id>4292</tns:id>
+      <tns:name>Shared Services Distribution</tns:name>
+      <tns:number>DM60048</tns:number>
+      <tns:modifier>2006</tns:modifier>
+      <tns:status>Expired</tns:status>
+      <tns:modifiedDate>2001-01-01T01:01:01Z</tns:modifiedDate>
+    </tns:agreement>
+  </tns:relatedAgreement>
+  <tns:relatedAgreement>
+    <tns:roleName>Dual Multi Award</tns:roleName>
+    <tns:agreement>
+      <tns:id>4286</tns:id>
+      <tns:name>Kreisers Medical Distribution</tns:name>
+      <tns:number>DM60037</tns:number>
+      <tns:modifier>2006</tns:modifier>
+      <tns:status>Expired</tns:status>
+      <tns:modifiedDate>2001-01-01T01:01:01Z</tns:modifiedDate>
+    </tns:agreement>
+  </tns:relatedAgreement>
+  <tns:relatedAgreement>
+    <tns:roleName>New Award</tns:roleName>
+    <tns:agreement>
+      <tns:id>17477</tns:id>
+      <tns:name>Cardinal Health Med-Surg Distribution</tns:name>
+      <tns:number>DM0022</tns:number>
+      <tns:modifier>2012</tns:modifier>
+      <tns:status>Active</tns:status>
+      <tns:modifiedDate>2001-01-01T01:01:01Z</tns:modifiedDate>
+    </tns:agreement>
+  </tns:relatedAgreement>
+  <tns:relatedAgreement>
+    <tns:roleName>New Award</tns:roleName>
+    <tns:agreement>
+      <tns:id>17486</tns:id>
+      <tns:name>Professional Hospital Supply</tns:name>
+      <tns:number>DM0031</tns:number>
+      <tns:modifier>2012</tns:modifier>
+      <tns:status>Active</tns:status>
+      <tns:modifiedDate>2001-01-01T01:01:01Z</tns:modifiedDate>
+    </tns:agreement>
+  </tns:relatedAgreement>
+  <tns:relatedAgreement>
+    <tns:roleName>Previous Award</tns:roleName>
+    <tns:agreement>
+      <tns:id>9238</tns:id>
+      <tns:name>Cardinal Medsurg Distribution</tns:name>
+      <tns:number>DM10020</tns:number>
+      <tns:modifier>2001</tns:modifier>
+      <tns:status>Expired</tns:status>
+      <tns:modifiedDate>2001-01-01T01:01:01Z</tns:modifiedDate>
+    </tns:agreement>
+  </tns:relatedAgreement>
+  <tns:relatedAgreement>
+    <tns:roleName>Previous Award</tns:roleName>
+    <tns:agreement>
+      <tns:id>9241</tns:id>
+      <tns:name>Buffalo Hospital Supply</tns:name>
+      <tns:number>DM10050</tns:number>
+      <tns:modifier>2001</tns:modifier>
+      <tns:status>Expired</tns:status>
+      <tns:modifiedDate>2001-01-01T01:01:01Z</tns:modifiedDate>
+    </tns:agreement>
+  </tns:relatedAgreement>
+  <tns:relatedAgreement>
+    <tns:roleName>Previous Award</tns:roleName>
+    <tns:agreement>
+      <tns:id>7822</tns:id>
+      <tns:name>Professional Hospital Supplies</tns:name>
+      <tns:number>DM10060</tns:number>
+      <tns:modifier>2001</tns:modifier>
+      <tns:status>Expired</tns:status>
+      <tns:modifiedDate>2001-01-01T01:01:01Z</tns:modifiedDate>
+    </tns:agreement>
+  </tns:relatedAgreement>
+  <tns:relatedAgreement>
+    <tns:roleName>Previous Award</tns:roleName>
+    <tns:agreement>
+      <tns:id>9240</tns:id>
+      <tns:name>Seneca Medical</tns:name>
+      <tns:number>DM10040</tns:number>
+      <tns:modifier>2001</tns:modifier>
+      <tns:status>Expired</tns:status>
+      <tns:modifiedDate>2001-01-01T01:01:01Z</tns:modifiedDate>
+    </tns:agreement>
+  </tns:relatedAgreement>
+  <tns:relatedAgreement>
+    <tns:roleName>Previous Award</tns:roleName>
+    <tns:agreement>
+      <tns:id>9237</tns:id>
+      <tns:name>Owens &amp; Minor, Inc.</tns:name>
+      <tns:number>DM10010</tns:number>
+      <tns:modifier>2001</tns:modifier>
+      <tns:status>Expired</tns:status>
+      <tns:modifiedDate>2001-01-01T01:01:01Z</tns:modifiedDate>
+    </tns:agreement>
+  </tns:relatedAgreement>
+  <tns:relatedAgreement>
+    <tns:roleName>Previous Award</tns:roleName>
+    <tns:agreement>
+      <tns:id>9242</tns:id>
+      <tns:name>The Burrows Company</tns:name>
+      <tns:number>DM10070</tns:number>
+      <tns:modifier>2001</tns:modifier>
+      <tns:status>Expired</tns:status>
+      <tns:modifiedDate>2001-01-01T01:01:01Z</tns:modifiedDate>
+    </tns:agreement>
+  </tns:relatedAgreement>
+  <tns:relatedAgreement>
+    <tns:roleName>Previous Award</tns:roleName>
+    <tns:agreement>
+      <tns:id>9239</tns:id>
+      <tns:name>McKesson HBOC</tns:name>
+      <tns:number>DM10030</tns:number>
+      <tns:modifier>2001</tns:modifier>
+      <tns:status>Expired</tns:status>
+      <tns:modifiedDate>2001-01-01T01:01:01Z</tns:modifiedDate>
+    </tns:agreement>
+  </tns:relatedAgreement>
+  <tns:relatedAgreement>
+    <tns:roleName>Previous Award</tns:roleName>
+    <tns:agreement>
+      <tns:id>9243</tns:id>
+      <tns:name>Shared Services</tns:name>
+      <tns:number>DM10080</tns:number>
+      <tns:modifier>2001</tns:modifier>
+      <tns:status>Expired</tns:status>
+      <tns:modifiedDate>2001-01-01T01:01:01Z</tns:modifiedDate>
+    </tns:agreement>
+  </tns:relatedAgreement>
+</tns:Agreement>

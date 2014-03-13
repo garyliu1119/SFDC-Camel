@@ -1,0 +1,344 @@
+<tns:Agreement xmlns:tns="http://schemas.vha.com/domain"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://schemas.vha.com/domain ED_Agreement.xsd">
+	<tns:id>12934</tns:id>
+	<tns:name>ABBOTT HPD-Test</tns:name>
+	<tns:number>RX81020</tns:number>
+	<tns:modifier>1998</tns:modifier>
+	<tns:status>Draft</tns:status>
+	<tns:effectiveStartDate>1998-10-01</tns:effectiveStartDate>
+	<tns:effectiveEndDate>2020-09-30</tns:effectiveEndDate>
+	<tns:modifiedDate>2014-03-04T12:07:08.000</tns:modifiedDate>
+	<tns:content />
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>subStatus</tns:name>
+		<tns:label>Sub Status</tns:label>
+		<tns:value>true</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>agreement_type</tns:name>
+		<tns:label>Agreement Type</tns:label>
+		<tns:value>Marketing</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:DecimalTerm">
+		<tns:name>annual_prod_category_revenue</tns:name>
+		<tns:label>Annual Product Category Revenue</tns:label>
+		<tns:value>1</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>distribution_channel</tns:name>
+		<tns:label>Authorized Distributor</tns:label>
+		<tns:value>Pharmaceutical</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>capital_equipment_flag</tns:name>
+		<tns:label>Capital Equipment Flag</tns:label>
+		<tns:value>N</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>commitment_required</tns:name>
+		<tns:label>Commitment Required</tns:label>
+		<tns:value>N</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>compliance_action</tns:name>
+		<tns:label>Compliance Action Taken</tns:label>
+		<tns:value>Approved</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>compliance_notes</tns:name>
+		<tns:label>Compliance Notes</tns:label>
+		<tns:value>Contract uploaded Compliance Review should be attached
+		</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:DateTerm">
+		<tns:name>compliance_date</tns:name>
+		<tns:label>Compliance Review Date</tns:label>
+		<tns:value>1998-10-01T01:00:00.000</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>compliance_by</tns:name>
+		<tns:label>Compliance Review by</tns:label>
+		<tns:value>System</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>confidential_indicator</tns:name>
+		<tns:label>Confidential Indicator</tns:label>
+		<tns:value>N</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>contract_termination_penalty</tns:name>
+		<tns:label>Contract Contains Termination Penalty?</tns:label>
+		<tns:value>No</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>contract_coverage</tns:name>
+		<tns:label>Contract Coverage</tns:label>
+		<tns:value>PHARMACY</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>contract_coverage</tns:name>
+		<tns:label>Contract Coverage</tns:label>
+		<tns:value />
+	</tns:term>
+	<tns:term xsi:type="tns:DateTerm">
+		<tns:name>contract_creation_date</tns:name>
+		<tns:label>Contract Creation Date</tns:label>
+		<tns:value>2011-07-06T19:25:00.000</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:DateTerm">
+		<tns:name>contract_modified_date</tns:name>
+		<tns:label>Contract Modified Date</tns:label>
+		<tns:value>2014-03-04T13:07:08.000</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>contract_name</tns:name>
+		<tns:label>Contract Name</tns:label>
+		<tns:value>ABBOTT HPD-Test</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>contract_number</tns:name>
+		<tns:label>Contract Number</tns:label>
+		<tns:value>12934</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>contract_title</tns:name>
+		<tns:label>Contract Title</tns:label>
+		<tns:value>ABBOTT HPD RX81020 Uploaded</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>contract_version</tns:name>
+		<tns:label>Contract Version</tns:label>
+		<tns:value>1</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>contract_class</tns:name>
+		<tns:label>Contract_Class</tns:label>
+		<tns:value>Supplier Agreement</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>custom_contract</tns:name>
+		<tns:label>Custom Contract</tns:label>
+		<tns:value>No</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>distribution_method</tns:name>
+		<tns:label>Distribution Method Key</tns:label>
+		<tns:value>Both</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:DateTerm">
+		<tns:name>effective_end_date</tns:name>
+		<tns:label>Effective_End_Date</tns:label>
+		<tns:value>2020-09-30T01:00:00.000</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:DateTerm">
+		<tns:name>effective_start_date</tns:name>
+		<tns:label>Effective_Start_Date</tns:label>
+		<tns:value>1998-10-01T01:00:00.000</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>export_type</tns:name>
+		<tns:label>Export Type</tns:label>
+		<tns:value>N</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>export_to_ocs</tns:name>
+		<tns:label>Export this Contract to OCS?</tns:label>
+		<tns:value>Yes</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>external_primary_party_name</tns:name>
+		<tns:label>External Primary Party Name</tns:label>
+		<tns:value>Abbott HPD</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>fees_greater_3_percent</tns:name>
+		<tns:label>Fees Greater than 3 Percent?</tns:label>
+		<tns:value>No</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>formulary</tns:name>
+		<tns:label>Formulary</tns:label>
+		<tns:value>Pharmacy</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>internal_party_name</tns:name>
+		<tns:label>Internal Primary Party Name</tns:label>
+		<tns:value>Alliance</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:DecimalTerm">
+		<tns:name>max_revenue_rate</tns:name>
+		<tns:label>Maximum Revenue Rate by Company</tns:label>
+		<tns:value>0</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:DecimalTerm">
+		<tns:name>min_revenue_rate</tns:name>
+		<tns:label>Minimum Revenue Rate by Company</tns:label>
+		<tns:value>0</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>ocs_contract_id</tns:name>
+		<tns:label>OCS Contract ID</tns:label>
+		<tns:value>243028319025456369131812968575231172882</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>opportunity_flag</tns:name>
+		<tns:label>Opportunity Flag</tns:label>
+		<tns:value>N</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>original_owner</tns:name>
+		<tns:label>Original Contract Owner</tns:label>
+		<tns:value>Knapp, Greg</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>private_label_contract</tns:name>
+		<tns:label>Private Label Contract?</tns:label>
+		<tns:value>No</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>real_contract</tns:name>
+		<tns:label>Real Contact</tns:label>
+		<tns:value>Yes</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>region_local</tns:name>
+		<tns:label>Region Local</tns:label>
+		<tns:value>0</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>report_frequency</tns:name>
+		<tns:label>Report Frequency</tns:label>
+		<tns:value>month</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>retroactive_flag</tns:name>
+		<tns:label>Retroactive Flag</tns:label>
+		<tns:value>N</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:DateTerm">
+		<tns:name>revenue_eff_date</tns:name>
+		<tns:label>Revenue Effective Date</tns:label>
+		<tns:value>1998-10-01T01:00:00.000</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:DecimalTerm">
+		<tns:name>revenue_pct</tns:name>
+		<tns:label>Revenue Percent</tns:label>
+		<tns:value>0.04</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>revenue_type</tns:name>
+		<tns:label>Revenue Type</tns:label>
+		<tns:value>HV</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>sole_source</tns:name>
+		<tns:label>Sole Source</tns:label>
+		<tns:value>M</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>type_of_vendor</tns:name>
+		<tns:label>Type of Vendor</tns:label>
+		<tns:value>Supplier</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>uhc_contract_id</tns:name>
+		<tns:label>UHC Contract ID</tns:label>
+		<tns:value>RX81020</tns:value>
+	</tns:term>
+	<tns:partyRole>
+		<tns:roleName>Supplier</tns:roleName>
+		<tns:Party xsi:type="tns:Organization">
+			<tns:id>B00074</tns:id>
+			<tns:name>Abbott HPD</tns:name>
+		</tns:Party>
+	</tns:partyRole>
+	<tns:partyRole>
+		<tns:roleName>Supplier Contact</tns:roleName>
+		<tns:Party xsi:type="tns:Individual">
+			<tns:id>16ebdbe4f71c4f9eb88d7008a8c3ffb1</tns:id>
+			<tns:firstName>Larry Pitts</tns:firstName>
+		</tns:Party>
+	</tns:partyRole>
+	<tns:partyRole>
+		<tns:roleName>Portfolio Executive</tns:roleName>
+		<tns:Party xsi:type="tns:Individual">
+			<tns:id>edf775a944dd498c8ce520fad8a59990</tns:id>
+			<tns:firstName>Senior Director Test 1</tns:firstName>
+		</tns:Party>
+	</tns:partyRole>
+	<tns:partyRole>
+		<tns:roleName>Supply Manager</tns:roleName>
+		<tns:Party xsi:type="tns:Organization">
+			<tns:id>018</tns:id>
+			<tns:name>Novation</tns:name>
+		</tns:Party>
+	</tns:partyRole>
+	<tns:partyRole>
+		<tns:roleName>Business Unit Analyst</tns:roleName>
+		<tns:Party xsi:type="tns:Individual">
+			<tns:firstName />
+		</tns:Party>
+	</tns:partyRole>
+	<tns:partyRole>
+		<tns:roleName>Business Unit Director</tns:roleName>
+		<tns:Party xsi:type="tns:Individual">
+			<tns:firstName />
+		</tns:Party>
+	</tns:partyRole>
+	<tns:partyRole>
+		<tns:roleName>Business Unit Senior Director</tns:roleName>
+		<tns:Party xsi:type="tns:Individual">
+			<tns:firstName />
+		</tns:Party>
+	</tns:partyRole>
+	<tns:partyRole>
+		<tns:roleName>Business Unit Senior Vice President</tns:roleName>
+		<tns:Party xsi:type="tns:Individual">
+			<tns:firstName />
+		</tns:Party>
+	</tns:partyRole>
+	<tns:partyRole>
+		<tns:roleName>Business Unit Vice President</tns:roleName>
+		<tns:Party xsi:type="tns:Individual">
+			<tns:firstName />
+		</tns:Party>
+	</tns:partyRole>
+	<tns:partyRole>
+		<tns:roleName>Buying Company</tns:roleName>
+		<tns:Party xsi:type="tns:Organization">
+			<tns:id>019</tns:id>
+			<tns:name>Provista</tns:name>
+		</tns:Party>
+	</tns:partyRole>
+	<tns:partyRole>
+		<tns:roleName>Buying Company</tns:roleName>
+		<tns:Party xsi:type="tns:Organization">
+			<tns:id>020</tns:id>
+			<tns:name>UHC</tns:name>
+		</tns:Party>
+	</tns:partyRole>
+	<tns:partyRole>
+		<tns:roleName>Buying Company</tns:roleName>
+		<tns:Party xsi:type="tns:Organization">
+			<tns:id>001</tns:id>
+			<tns:name>VHA</tns:name>
+		</tns:Party>
+	</tns:partyRole>
+	<tns:partyRole>
+		<tns:roleName>National Account Manager</tns:roleName>
+		<tns:Party xsi:type="tns:Individual">
+			<tns:phone />
+			<tns:address>
+				<tns:addressLine1 />
+				<tns:state />
+			</tns:address>
+			<tns:firstName />
+			<tns:lastName />
+		</tns:Party>
+	</tns:partyRole>
+	<tns:productClass>
+		<tns:name>IV Systems</tns:name>
+		<tns:type>product_segment_key</tns:type>
+	</tns:productClass>
+</tns:Agreement>

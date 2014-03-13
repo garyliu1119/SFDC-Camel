@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
+	xmlns:sf="urn:fault.enterprise.soap.sforce.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<soapenv:Body>
+		<soapenv:Fault>
+			<faultcode>sf:INVALID_FIELD</faultcode>
+			<faultstring>INVALID_FIELD: No such column
+				&apos;Contract_Name__c&apos; on entity &apos;Contract&apos;. If you
+				are attempting to use a custom field, be sure to append the
+				&apos;__c&apos; after the custom field name. Please reference your
+				WSDL or the describe call for the appropriate names.</faultstring>
+			<detail>
+				<sf:InvalidFieldFault xsi:type="sf:InvalidFieldFault">
+					<sf:exceptionCode>INVALID_FIELD</sf:exceptionCode>
+					<sf:exceptionMessage>No such column &apos;Contract_Name__c&apos; on
+						entity &apos;Contract&apos;. If you are attempting to use a custom
+						field, be sure to append the &apos;__c&apos; after the custom
+						field name. Please reference your WSDL or the describe call for
+						the appropriate names.</sf:exceptionMessage>
+					<sf:row>-1</sf:row>
+					<sf:column>-1</sf:column>
+				</sf:InvalidFieldFault>
+			</detail>
+		</soapenv:Fault>
+	</soapenv:Body>
+</soapenv:Envelope>

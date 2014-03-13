@@ -1,0 +1,454 @@
+<tns:Agreement xmlns:tns="http://schemas.vha.com/domain"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://schemas.vha.com/domain ED_Agreement.xsd">
+	<tns:id>14782</tns:id>
+	<tns:name>AGFA General Radiography SVC Agreements</tns:name>
+	<tns:number>XR0011A</tns:number>
+	<tns:modifier>2011</tns:modifier>
+	<tns:status>Active</tns:status>
+	<tns:effectiveStartDate>2011-09-01</tns:effectiveStartDate>
+	<tns:effectiveEndDate>2015-08-31</tns:effectiveEndDate>
+	<tns:executionDate>2011-07-03</tns:executionDate>
+	<tns:modifiedDate>2014-03-04T11:19:37.000</tns:modifiedDate>
+	<tns:content />
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>subStatus</tns:name>
+		<tns:label>Sub Status</tns:label>
+		<tns:value>true</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>agreement_type</tns:name>
+		<tns:label>Agreement Type</tns:label>
+		<tns:value>Marketing</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:DecimalTerm">
+		<tns:name>annual_prod_category_revenue</tns:name>
+		<tns:label>Annual Product Category Revenue</tns:label>
+		<tns:value>1</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>distribution_channel</tns:name>
+		<tns:label>Authorized Distributor</tns:label>
+		<tns:value>Medical Imaging</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>brief_description</tns:name>
+		<tns:label>Brief Description</tns:label>
+		<tns:value />
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>capital_equipment_flag</tns:name>
+		<tns:label>Capital Equipment Flag</tns:label>
+		<tns:value>N</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>commitment_required</tns:name>
+		<tns:label>Commitment Required</tns:label>
+		<tns:value>N</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>compliance_action</tns:name>
+		<tns:label>Compliance Action Taken</tns:label>
+		<tns:value>Approved</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:DateTerm">
+		<tns:name>compliance_date</tns:name>
+		<tns:label>Compliance Review Date</tns:label>
+		<tns:value>2011-08-19T01:00:00.000</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>compliance_by</tns:name>
+		<tns:label>Compliance Review by</tns:label>
+		<tns:value>System</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>contract_coverage</tns:name>
+		<tns:label>Contract Coverage</tns:label>
+		<tns:value>Extended Warranty Svc Agr</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>contract_coverage</tns:name>
+		<tns:label>Contract Coverage</tns:label>
+		<tns:value>Portable Systems</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>contract_coverage</tns:name>
+		<tns:label>Contract Coverage</tns:label>
+		<tns:value>AMC</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>contract_coverage</tns:name>
+		<tns:label>Contract Coverage</tns:label>
+		<tns:value />
+	</tns:term>
+	<tns:term xsi:type="tns:DateTerm">
+		<tns:name>contract_creation_date</tns:name>
+		<tns:label>Contract Creation Date</tns:label>
+		<tns:value>2011-08-19T19:45:14.000</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:DateTerm">
+		<tns:name>contract_modified_date</tns:name>
+		<tns:label>Contract Modified Date</tns:label>
+		<tns:value>2014-03-04T12:19:37.000</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>contract_name</tns:name>
+		<tns:label>Contract Name</tns:label>
+		<tns:value>AGFA General Radiography SVC Agreements</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>contract_number</tns:name>
+		<tns:label>Contract Number</tns:label>
+		<tns:value>14782</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>contract_rec_freq</tns:name>
+		<tns:label>Contract Reconciliation Frequency</tns:label>
+		<tns:value>NONE</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>contract_title</tns:name>
+		<tns:label>Contract Title</tns:label>
+		<tns:value>XR0011A Uploaded</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>contract_version</tns:name>
+		<tns:label>Contract Version</tns:label>
+		<tns:value>1</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>contract_class</tns:name>
+		<tns:label>Contract_Class</tns:label>
+		<tns:value>Supplier Agreement</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:DecimalTerm">
+		<tns:name>contract_total</tns:name>
+		<tns:label>Contract_Total</tns:label>
+		<tns:value>0</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>custom_contract</tns:name>
+		<tns:label>Custom Contract</tns:label>
+		<tns:value>No</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:DecimalTerm">
+		<tns:name>day_of_report</tns:name>
+		<tns:label>Day of Report</tns:label>
+		<tns:value>30</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>distribution_method</tns:name>
+		<tns:label>Distribution Method Key</tns:label>
+		<tns:value>Direct</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:DateTerm">
+		<tns:name>effective_end_date</tns:name>
+		<tns:label>Effective_End_Date</tns:label>
+		<tns:value>2015-08-31T01:00:00.000</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:DateTerm">
+		<tns:name>effective_start_date</tns:name>
+		<tns:label>Effective_Start_Date</tns:label>
+		<tns:value>2011-09-01T01:00:00.000</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:DateTerm">
+		<tns:name>executiondate</tns:name>
+		<tns:label>ExecutionDate</tns:label>
+		<tns:value>2011-07-03T01:00:00.000</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>export_type</tns:name>
+		<tns:label>Export Type</tns:label>
+		<tns:value>N</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>export_to_ocs</tns:name>
+		<tns:label>Export this Contract to OCS?</tns:label>
+		<tns:value>Yes</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>external_primary_party_name</tns:name>
+		<tns:label>External Primary Party Name</tns:label>
+		<tns:value>AGFA Healthcare US</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>fees_greater_3_percent</tns:name>
+		<tns:label>Fees Greater than 3 Percent?</tns:label>
+		<tns:value>No</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>formulary</tns:name>
+		<tns:label>Formulary</tns:label>
+		<tns:value>Non-Pharmacy</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>high_commitment_tier</tns:name>
+		<tns:label>High Commitment Tier</tns:label>
+		<tns:value>NO</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>innovative_technology</tns:name>
+		<tns:label>Innovative Technology</tns:label>
+		<tns:value>NO</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>internal_party_name</tns:name>
+		<tns:label>Internal Primary Party Name</tns:label>
+		<tns:value>Alliance</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>master_contract_id</tns:name>
+		<tns:label>Master Contract ID</tns:label>
+		<tns:value>XR0011~2011</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:DecimalTerm">
+		<tns:name>max_revenue_rate</tns:name>
+		<tns:label>Maximum Revenue Rate by Company</tns:label>
+		<tns:value>0.03</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:DecimalTerm">
+		<tns:name>min_revenue_rate</tns:name>
+		<tns:label>Minimum Revenue Rate by Company</tns:label>
+		<tns:value>0.03</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>new_product_award</tns:name>
+		<tns:label>New Product Award</tns:label>
+		<tns:value>NO</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>opportunity_flag</tns:name>
+		<tns:label>Opportunity Flag</tns:label>
+		<tns:value>N</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>optimization_report</tns:name>
+		<tns:label>Optimization Report</tns:label>
+		<tns:value>NO</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>original_owner</tns:name>
+		<tns:label>Original Contract Owner</tns:label>
+		<tns:value>Barry Campbell</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:DecimalTerm">
+		<tns:name>payment_due_date</tns:name>
+		<tns:label>Payment Due Date</tns:label>
+		<tns:value>30</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>payment_rec_freq</tns:name>
+		<tns:label>Payment Reconciliation Frequency</tns:label>
+		<tns:value>month</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>president</tns:name>
+		<tns:label>President</tns:label>
+		<tns:value>Jody Hatcher</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>price_goal_include</tns:name>
+		<tns:label>Price Goal Include</tns:label>
+		<tns:value>No</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>push_to_price_system</tns:name>
+		<tns:label>Published In Price System</tns:label>
+		<tns:value>N</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>real_contract</tns:name>
+		<tns:label>Real Contact</tns:label>
+		<tns:value>Yes</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>region</tns:name>
+		<tns:label>Region</tns:label>
+		<tns:value>0</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>region_local</tns:name>
+		<tns:label>Region Local</tns:label>
+		<tns:value>0</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>report_frequency</tns:name>
+		<tns:label>Report Frequency</tns:label>
+		<tns:value>month</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>retroactive_flag</tns:name>
+		<tns:label>Retroactive Flag</tns:label>
+		<tns:value>N</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:DateTerm">
+		<tns:name>revenue_eff_date</tns:name>
+		<tns:label>Revenue Effective Date</tns:label>
+		<tns:value>2011-09-01T01:00:00.000</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:DateTerm">
+		<tns:name>revenue_end_date</tns:name>
+		<tns:label>Revenue End Date</tns:label>
+		<tns:value>2014-08-31T01:00:00.000</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>revenue_fee_detail</tns:name>
+		<tns:label>Revenue Fee Detail</tns:label>
+		<tns:value>3% of net sales</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:DecimalTerm">
+		<tns:name>revenue_pct</tns:name>
+		<tns:label>Revenue Percent</tns:label>
+		<tns:value>0.03</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>revenue_type</tns:name>
+		<tns:label>Revenue Type</tns:label>
+		<tns:value>HF</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>sole_source</tns:name>
+		<tns:label>Sole Source</tns:label>
+		<tns:value>M</tns:value>
+	</tns:term>
+	<tns:term xsi:type="tns:StringTerm">
+		<tns:name>type_of_vendor</tns:name>
+		<tns:label>Type of Vendor</tns:label>
+		<tns:value>Supplier</tns:value>
+	</tns:term>
+	<tns:partyRole>
+		<tns:roleName>Supplier</tns:roleName>
+		<tns:Party xsi:type="tns:Organization">
+			<tns:id>AGFA</tns:id>
+			<tns:name>AGFA Healthcare US</tns:name>
+		</tns:Party>
+	</tns:partyRole>
+	<tns:partyRole>
+		<tns:roleName>Supplier Contact</tns:roleName>
+		<tns:Party xsi:type="tns:Individual">
+			<tns:id>db6237f097af4af68cd2c3057d4e7b8d</tns:id>
+			<tns:firstName>Bill Mena</tns:firstName>
+		</tns:Party>
+	</tns:partyRole>
+	<tns:partyRole>
+		<tns:roleName>Portfolio Executive</tns:roleName>
+		<tns:Party xsi:type="tns:Individual">
+			<tns:id>b7368bec15fd43ff981784165fc5d2a0</tns:id>
+			<tns:firstName>Bri Huedepohl</tns:firstName>
+		</tns:Party>
+	</tns:partyRole>
+	<tns:partyRole>
+		<tns:roleName>Supply Manager</tns:roleName>
+		<tns:Party xsi:type="tns:Organization">
+			<tns:id>018</tns:id>
+			<tns:name>Novation</tns:name>
+		</tns:Party>
+	</tns:partyRole>
+	<tns:partyRole>
+		<tns:roleName>Business Unit Analyst</tns:roleName>
+		<tns:Party xsi:type="tns:Individual">
+			<tns:firstName>Shadrach Nartey</tns:firstName>
+		</tns:Party>
+	</tns:partyRole>
+	<tns:partyRole>
+		<tns:roleName>Business Unit Director</tns:roleName>
+		<tns:Party xsi:type="tns:Individual">
+			<tns:firstName>Daniel Knepper</tns:firstName>
+		</tns:Party>
+	</tns:partyRole>
+	<tns:partyRole>
+		<tns:roleName>Business Unit Senior Director</tns:roleName>
+		<tns:Party xsi:type="tns:Individual">
+			<tns:firstName>Rebecca Gayden</tns:firstName>
+		</tns:Party>
+	</tns:partyRole>
+	<tns:partyRole>
+		<tns:roleName>Business Unit Senior Vice President</tns:roleName>
+		<tns:Party xsi:type="tns:Individual">
+			<tns:firstName>Peter Allen</tns:firstName>
+		</tns:Party>
+	</tns:partyRole>
+	<tns:partyRole>
+		<tns:roleName>Business Unit Vice President</tns:roleName>
+		<tns:Party xsi:type="tns:Individual">
+			<tns:firstName>Mike Clemens</tns:firstName>
+		</tns:Party>
+	</tns:partyRole>
+	<tns:partyRole>
+		<tns:roleName>Buying Company</tns:roleName>
+		<tns:Party xsi:type="tns:Organization">
+			<tns:id>050</tns:id>
+			<tns:name>CHA</tns:name>
+		</tns:Party>
+	</tns:partyRole>
+	<tns:partyRole>
+		<tns:roleName>Buying Company</tns:roleName>
+		<tns:Party xsi:type="tns:Organization">
+			<tns:id>054</tns:id>
+			<tns:name>Excelerate</tns:name>
+		</tns:Party>
+	</tns:partyRole>
+	<tns:partyRole>
+		<tns:roleName>Buying Company</tns:roleName>
+		<tns:Party xsi:type="tns:Organization">
+			<tns:id>019</tns:id>
+			<tns:name>Provista</tns:name>
+		</tns:Party>
+	</tns:partyRole>
+	<tns:partyRole>
+		<tns:roleName>Buying Company</tns:roleName>
+		<tns:Party xsi:type="tns:Organization">
+			<tns:id>020</tns:id>
+			<tns:name>UHC</tns:name>
+		</tns:Party>
+	</tns:partyRole>
+	<tns:partyRole>
+		<tns:roleName>Buying Company</tns:roleName>
+		<tns:Party xsi:type="tns:Organization">
+			<tns:id>001</tns:id>
+			<tns:name>VHA</tns:name>
+		</tns:Party>
+	</tns:partyRole>
+	<tns:partyRole>
+		<tns:roleName>National Account Manager</tns:roleName>
+		<tns:Party xsi:type="tns:Individual">
+			<tns:address />
+		</tns:Party>
+	</tns:partyRole>
+	<tns:productClass>
+		<tns:name>Diagnostic Imaging</tns:name>
+		<tns:type>product_segment_key</tns:type>
+	</tns:productClass>
+	<tns:productClass>
+		<tns:name>1Q</tns:name>
+		<tns:type>class_of_trade</tns:type>
+	</tns:productClass>
+	<tns:productClass>
+		<tns:name>1S</tns:name>
+		<tns:type>class_of_trade</tns:type>
+	</tns:productClass>
+	<tns:productClass>
+		<tns:name>1U</tns:name>
+		<tns:type>class_of_trade</tns:type>
+	</tns:productClass>
+	<tns:productClass>
+		<tns:name>1Y</tns:name>
+		<tns:type>class_of_trade</tns:type>
+	</tns:productClass>
+	<tns:productClass>
+		<tns:name>4Y</tns:name>
+		<tns:type>class_of_trade</tns:type>
+	</tns:productClass>
+	<tns:productClass>
+		<tns:name>DF</tns:name>
+		<tns:type>class_of_trade</tns:type>
+	</tns:productClass>
+	<tns:productClass>
+		<tns:name>IN</tns:name>
+		<tns:type>class_of_trade</tns:type>
+	</tns:productClass>
+	<tns:productClass>
+		<tns:name>DI</tns:name>
+		<tns:type>service_line</tns:type>
+	</tns:productClass>
+</tns:Agreement>

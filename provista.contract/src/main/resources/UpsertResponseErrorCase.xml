@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
+	xmlns="urn:enterprise.soap.sforce.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<soapenv:Body>
+		<upsertResponse>
+			<result>
+				<created>false</created>
+				<errors>
+					<fields>Name</fields>
+					<message>Product Name: more than one record found for external id
+						field: [01tU0000000uZYsIAM, 01tU0000000woWOIAY]
+					</message>
+					<statusCode>DUPLICATE_EXTERNAL_ID</statusCode>
+				</errors>
+				<id xsi:nil="true" />
+				<success>false</success>
+			</result>
+		</upsertResponse>
+	</soapenv:Body>
+</soapenv:Envelope>

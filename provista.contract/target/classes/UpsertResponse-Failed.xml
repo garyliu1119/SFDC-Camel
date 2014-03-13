@@ -1,0 +1,34 @@
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"
+	xmlns:urn="urn:enterprise.soap.sforce.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instanss.stepNumber=1">
+	<SOAP-ENV:Header>
+		<urn:SessionHeader>
+			<urn:sessionId>00DJ0000002lyZo!AQoAQNTvXACrz28BUo0cQKpR5K8IlPl89TJAhnBsCvgSzZZoOnOAgdkixi8S73qkrDZVwBVlYMeR5DSOGiqVwPH443QSHcOA</urn:sessionId>
+		</urn:SessionHeader>
+	</SOAP-ENV:Header>
+	<SOAP-ENV:Body>
+		<urn:upsert>
+			<urn:externalIDFieldName>Contract_Number__c</urn:externalIDFieldName>
+			<urn:sObjects xsi:type="urn:Contract">
+				<urn:Contract_Number__c>DM60034</urn:Contract_Number__c>
+				<urn:Contract_Name__c>Cardinal Health Medical Distribution-Chidi
+					Test</urn:Contract_Name__c>
+				<urn:Product_Spend_Category__c>Medical Products</urn:Product_Spend_Category__c>
+				<urn:Emptoris_Status__c>Expired</urn:Emptoris_Status__c>
+				<urn:StartDate>2006-09-01</urn:StartDate>
+				<urn:EndDate>2012-08-31</urn:EndDate>
+				<urn:Form_Required__c>Y</urn:Form_Required__c>
+				<urn:Distribution_Method__c>Direct</urn:Distribution_Method__c>
+				<urn:Revenue_Fee_Percent__c>0</urn:Revenue_Fee_Percent__c>
+				<urn:Revenue_Fee_Detail__c>growth&lt;2%, .33% fee; growth 2%-3.99%,
+					.35% fee; growth 4%-7.99%, .38% fee; growth 8%-11.99%, .4% fee;
+					growth 12%-13.99%, .42% fee; growth&gt;14%, .44%fee</urn:Revenue_Fee_Detail__c>
+				<urn:Product_Category__r>
+					<urn:Name>Medical Products</urn:Name>
+				</urn:Product_Category__r>
+				<urn:Account>
+					<urn:Vendor_ID__c>H159</urn:Vendor_ID__c>
+				</urn:Account>
+			</urn:sObjects>
+		</urn:upsert>
+	</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
